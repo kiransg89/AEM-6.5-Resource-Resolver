@@ -1,0 +1,1 @@
+# AEM-6.5-Resource-Resolver
